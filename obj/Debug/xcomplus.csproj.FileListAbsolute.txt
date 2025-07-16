@@ -1,0 +1,14 @@
+D:\Desktop\VS2022Project\csharp\xcomplus\bin\Debug\xcomplus.exe.config
+D:\Desktop\VS2022Project\csharp\xcomplus\bin\Debug\xcomplus.exe
+D:\Desktop\VS2022Project\csharp\xcomplus\bin\Debug\xcomplus.pdb
+D:\Desktop\VS2022Project\csharp\xcomplus\obj\Debug\xcomplus.csproj.AssemblyReference.cache
+D:\Desktop\VS2022Project\csharp\xcomplus\obj\Debug\xcomplus.Form1.resources
+D:\Desktop\VS2022Project\csharp\xcomplus\obj\Debug\xcomplus.Properties.Resources.resources
+D:\Desktop\VS2022Project\csharp\xcomplus\obj\Debug\xcomplus.csproj.GenerateResource.cache
+D:\Desktop\VS2022Project\csharp\xcomplus\obj\Debug\xcomplus.csproj.CoreCompileInputs.cache
+D:\Desktop\VS2022Project\csharp\xcomplus\obj\Debug\xcomplus.exe
+D:\Desktop\VS2022Project\csharp\xcomplus\obj\Debug\xcomplus.pdb
+D:\Desktop\VS2022Project\csharp\xcomplus\obj\Debug\xcomplus.Form2.resources
+D:\Desktop\VS2022Project\csharp\xcomplus\bin\Debug\System.CodeDom.dll
+D:\Desktop\VS2022Project\csharp\xcomplus\bin\Debug\System.CodeDom.xml
+D:\Desktop\VS2022Project\csharp\xcomplus\obj\Debug\xcomplus.csproj.Up2Date
